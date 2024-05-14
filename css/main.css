@@ -368,27 +368,27 @@ section#justify-content-section {
 
 .justify-content-space-between-parent-container {
   display: flex;
-  justify-content: center;
+  justify-content:space-between;
 }
 
 .justify-content-space-around-parent-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .justify-content-space-evenly-parent-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .justify-content-flex-start-parent-container {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .justify-content-flex-end-parent-container {
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 /* end justify-content */
